@@ -14,4 +14,4 @@ I used Python to create this program.
 
 # Useful Websites
 * [w3schools](https://www.w3schools.com/python/python_functions.asp)
-* [gitHub](https://desktop.github.com/)
+* [gitHub](https://github.com/starb520/Hello)
